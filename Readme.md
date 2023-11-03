@@ -22,3 +22,7 @@ The ```ods``` file contains these data fields:
 ## Report
 
 Data was gathered manually by the author, by surveying the website(s) of the corresponding journals. This endeavour was part of a study commissioned by editors of [Economica](https://www.lse.ac.uk/economics/about-us/economica) to help them decide on their future decisions on the reproducibility and data policy of the journal. The report and the data might be relevant to other small journals with more limited resources. 
+
+## TBD
+
+- Continuous automatic update of journals
