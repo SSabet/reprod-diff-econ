@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: replication_report_draft_economica.aux
+The style file: apalike.bst
+Database file #1: ./replic_economica.bib
+Warning--empty journal in connolly2023journal
+Warning--there's a number but no volume in currier2021safeguarding
+You've used 33 entries,
+            1935 wiz_defined-function locations,
+            669 strings with 9653 characters,
+and the built_in function-call counts, 12452 in all, are:
+= -- 1237
+> -- 494
+< -- 21
++ -- 172
+- -- 162
+* -- 1048
+:= -- 2199
+add.period$ -- 98
+call.type$ -- 33
+change.case$ -- 245
+chr.to.int$ -- 33
+cite$ -- 35
+duplicate$ -- 467
+empty$ -- 845
+format.name$ -- 211
+if$ -- 2402
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 28
+newline$ -- 167
+num.names$ -- 99
+pop$ -- 184
+preamble$ -- 1
+purify$ -- 244
+quote$ -- 0
+skip$ -- 381
+stack$ -- 0
+substring$ -- 862
+swap$ -- 56
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 2
+while$ -- 104
+width$ -- 0
+write$ -- 420
+(There were 2 warnings)
